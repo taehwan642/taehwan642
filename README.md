@@ -10,7 +10,8 @@
 
 ---------------------------------------
 
-### Languages
+### Favorite Languages
 
 [![C Badge](https://img.shields.io/badge/-black?style=flat-square&logo=C&logoColor=white)]()
 [![C++ Badge](https://img.shields.io/badge/-black?style=flat&logo=c%2B%2B)]()
+
